@@ -2,7 +2,8 @@ const SignUp = () => {
     return (
         <>
             <h2>Sign Up</h2>
-            <p>App sign up </p>
+            <p>Digite sus dato de Registro </p>
+            <p>Ya tienes una cuenta?</p>
         </>
     );
 }

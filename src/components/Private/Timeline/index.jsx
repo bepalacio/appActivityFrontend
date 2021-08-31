@@ -2,7 +2,7 @@ const Timeline = () => {
     return (
         <>
             <h2>Timeline</h2>
-            <p>hola mundo </p>
+            <p>Este es mi Timeline</p>
         </>
     );
 }
